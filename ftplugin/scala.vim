@@ -4,4 +4,4 @@ setlocal softtabstop=2
 setlocal tabstop=2
 setlocal expandtab
 setlocal formatoptions=cqrol
-
+setlocal nomodeline
