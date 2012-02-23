@@ -5,3 +5,4 @@ setlocal tabstop=2
 setlocal expandtab
 setlocal formatoptions=cqrol
 setlocal nomodeline
+setlocal grepprg+=\ --include='*.scala'
